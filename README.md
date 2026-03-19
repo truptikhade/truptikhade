@@ -64,8 +64,6 @@ Azure Pipelines (CI/CD) • Azure Blob Storage • Docker • Git
 
 ## 📊 Stats
 
-![Trupti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=truptikhade&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=truptikhade&layout=compact&theme=tokyonight)
 
 ---

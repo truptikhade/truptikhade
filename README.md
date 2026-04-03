@@ -29,28 +29,6 @@ Azure Pipelines (CI/CD) • Azure Blob Storage • Docker • Git
 
 ---
 
-## 🚀 Projects
-
-### 🅿️ Parking Lot System with GenAI
-> Java • Spring Boot • React • PostgreSQL • Redis • HuggingFace
-
-- Full-stack parking management system with real-time slot allocation and billing
-- React frontend screens for entry, availability, and billing flows
-- GenAI component for natural-language parking summaries using HuggingFace
-- Redis caching for high-frequency operations
-
----
-
-### 👮 Police Operations System
-> Node.js • Express • React • PostgreSQL • Redis • Docker
-
-- Full-stack system for police patrolling and bandobast operations
-- React dashboard for officers to manage and track assignments
-- Role-based access control, Redis for real-time tracking
-- Dockerized and fully documented with Postman
-
----
-
 ## 💼 Experience
 
 **Software Engineer @ Agiliad Technology** *(Sept 2024 – Nov 2025)*

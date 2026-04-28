@@ -16,16 +16,16 @@ Java • JavaScript (ES6+) • Python • C++
 React • Redux • HTML5 • CSS3 • Chrome DevTools
 
 **Backend**
-Spring Boot • Spring Security • Node.js • Express • JWT • JPA/Hibernate • REST APIs
+Spring Boot • Spring Security • Node.js • Express • JWT • JPA/Hibernate • REST APIs • Protocols(Websocket, Socket.io)
 
 **Python**
-Flask • FastAPI • Pandas • OpenCV • ML model integration
+Pandas • OpenCV • ML model integration
 
 **Databases**
-PostgreSQL • MySQL • Redis
+PostgreSQL • MySQL • Redis • MongoDB
 
 **Cloud & DevOps**
-Azure Pipelines (CI/CD) • Azure Blob Storage • Docker • Git
+Azure Pipelines (CI/CD) • Azure Blob Storage • Docker • Git • Bitbucket
 
 ---
 

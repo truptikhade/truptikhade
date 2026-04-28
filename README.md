@@ -1,6 +1,6 @@
 # Hi, I'm Trupti Khade 👋
 
-Full-Stack Developer | Java Spring Boot | Node.js | React | Python
+Full-Stack Developer | Java Spring Boot | Node.js/Express | React | Python
 
 📍 Maharashtra, India
 📧 1truptikhade@gmail.com

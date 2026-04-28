@@ -10,22 +10,22 @@ Full-Stack Developer | Java Spring Boot | Node.js/Express | React | Python
 ## 🛠️ Tech Stack
 
 **Languages**
-Java • JavaScript (ES6+) • Python • C++
+• Java • JavaScript (ES6+) • Python • C++
 
 **Frontend**
-React • Redux • HTML5 • CSS3 • Chrome DevTools
+• React • Redux • HTML5 • CSS3 • Chrome DevTools
 
 **Backend**
-Spring Boot • Spring Security • Node.js • Express • JWT • JPA/Hibernate • REST APIs • Protocols(Websocket, Socket.io)
+• Spring Boot • Spring Security • Node.js • Express • JWT • JPA/Hibernate • REST APIs • Protocols(Websocket, Socket.io)
 
 **Python**
-Pandas • OpenCV • ML model integration
+• Pandas • OpenCV • ML model integration
 
 **Databases**
-PostgreSQL • MySQL • Redis • MongoDB
+• PostgreSQL • MySQL • Redis • MongoDB
 
 **Cloud & DevOps**
-Azure Pipelines (CI/CD) • Azure Blob Storage • Docker • Git • Bitbucket
+• Azure Pipelines (CI/CD) • Azure Blob Storage • Docker • Git • Bitbucket
 
 ---
 
